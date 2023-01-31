@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ashu/static/css/main.b1183923.css",
+    "main.js": "/Ashu/static/js/main.140f3c93.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Ashu/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Ashu/index.html",
+    "main.b1183923.css.map": "/Ashu/static/css/main.b1183923.css.map",
+    "main.140f3c93.js.map": "/Ashu/static/js/main.140f3c93.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Ashu/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1183923.css",
+    "static/js/main.140f3c93.js"
+  ]
+}
